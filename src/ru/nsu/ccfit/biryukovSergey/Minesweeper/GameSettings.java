@@ -12,6 +12,6 @@ public class GameSettings {
     }
 
     public GameSettings(ViewMode mode) {
-        this(mode, 10, 10, 9);
+        this(mode, 9, 9, 10);
     }
 }
